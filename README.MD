@@ -82,7 +82,4 @@ Each snippet stores:
 
 🛠 Example
 
-\:SaveSnippet
--- content: print("Hello, world!")
--- tags: hello, example
--- language: lua
+        :SaveSnippet -- content: print("Hello, world!") -- tags: hello, example -- language: lua
